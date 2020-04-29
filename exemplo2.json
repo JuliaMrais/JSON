@@ -1,0 +1,15 @@
+[{
+
+"nome" : "Pedro Silva",
+"email": "pedro@gmail.com",
+"setores": ["RH", "Financeiro"]
+
+},
+
+{
+
+"nome" : "Maria do Carmo",
+"email": "maria@gmail.com",
+"setores": ["Gestao", "TI"]
+
+}]

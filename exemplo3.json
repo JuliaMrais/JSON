@@ -1,0 +1,32 @@
+[{
+
+"nome" : "Pedro Silva",
+"email": "pedro@gmail.com",
+"setores": [
+{ "id": 1,
+  "nome": "Recursos Humanos",
+   "sigla": "RH"
+    },
+{ "id": 2,
+  "nome": "Financeiro",
+   "sigla": "FIN"
+    }
+]
+
+},
+
+{
+
+"nome" : "Maria do Carmo",
+"email": "maria@gmaill.com",
+"setores": [
+{ "id": 3,
+  "nome": "Gestao",
+   "sigla": "GES"
+    },
+{ "id": 4,
+  "nome": "Tecnologia da Informacao",
+   "sigla": "TI"
+    }
+]
+}]

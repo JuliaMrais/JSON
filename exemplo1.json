@@ -1,0 +1,19 @@
+[{
+
+"nome" : "Pedro Silva",
+"email": "pedro@gmail.com",
+"idade": 20,
+"altura": 1.75,
+"situacao": false,
+
+},
+
+{
+
+"nome" : "Maria do Carmo",
+"email": "maria@gmaill.com",
+"idade": 21,
+"altura": 1.70,
+"situacao": true,
+
+}]
